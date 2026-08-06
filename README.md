@@ -5,7 +5,8 @@
 
 
 https://github.com/user-attachments/assets/0ac279cf-2716-45b8-bb12-f3ded3a8219c
-
+Heat abnormal / Iyowa feat.Adachi Rei
+UST. @music_is_genre
 
 
 Fixes timbre collapse on notes **above a voicebank's trained vocal range** by
