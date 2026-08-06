@@ -1,0 +1,3 @@
+onnx>=1.14
+numpy
+# optional (for the numeric self-test): onnxruntime
