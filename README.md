@@ -2,6 +2,12 @@
 
 **English** | [한국어](README.ko.md)
 
+
+
+https://github.com/user-attachments/assets/0ac279cf-2716-45b8-bb12-f3ded3a8219c
+
+
+
 Fixes timbre collapse on notes **above a voicebank's trained vocal range** by
 grafting a small "limit note" preprocessor into the acoustic ONNX file.
 
