@@ -2,21 +2,13 @@
 
 [English](README.md) | **한국어**
 
-<<<<<<< HEAD
-DiffSinger 보이스뱅크의 **학습 음역 밖 — 고음과 저음 모두 —** 에서 음색이
-무너지는 문제를, 어쿠스틱 ONNX 파일에 "한계음" 전처리를 이식해서 해결하는
-도구입니다.
-=======
-
-
 https://github.com/user-attachments/assets/0ac279cf-2716-45b8-bb12-f3ded3a8219c
 
 (Heat abnormal / Iyowa feat.Adachi Rei / UST. @music_is_genre)
 
-
-DiffSinger 보이스뱅크의 **학습 음역을 넘는 고음**에서 음색이 무너지는 문제를,
-어쿠스틱 ONNX 파일에 "한계음" 전처리를 이식해서 해결하는 도구입니다.
->>>>>>> 22f26512d25ce07e5a0613409ad3abef284efb5d
+DiffSinger 보이스뱅크의 **학습 음역 밖 — 고음과 저음 모두 —** 에서 음색이
+무너지는 문제를, 어쿠스틱 ONNX 파일에 "한계음" 전처리를 이식해서 해결하는
+도구입니다.
 
 - 상한을 넘는 구간은 낮춰서, 하한을 밑도는 구간은 올려서 **어쿠스틱에게만**
   들려줌 — 음색은 항상 학습 범위 안에서 생성
